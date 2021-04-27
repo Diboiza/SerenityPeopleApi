@@ -1,11 +1,13 @@
 #API Test Automation
 
-###By Bongani Maphiri
+###Author: Bongani Maphiri
 
 ##Technology Stack
--Serenity BDD Framework
--Rest Assured
--Junit
+![](src/main/resources/images/restassured.png)
+</br>
+![](src/main/resources/images/serenitbdd.png)
+
+
 
 To Execute all tests, use the below maven command
 
@@ -14,4 +16,4 @@ mvn clean verify
 ```
 
 ##Report
-- report is located under target/site/serenity/index.html open the html file
+[**target/site/serenity/index.html**](target/site/serenity/index.html)
